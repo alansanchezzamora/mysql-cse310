@@ -3,7 +3,7 @@
 Documentation for setting up PostgreSQL locally and with AWS RDS.
 
 CSE310 - Sprint 3 project (EXPENSE TRACKER)
-
+https://youtu.be/FVmhGH6UuI0
 This project is an Expense Tracker App that allows users to:
 
 - Add daily expenses
